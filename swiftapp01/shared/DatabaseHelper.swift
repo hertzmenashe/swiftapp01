@@ -15,7 +15,7 @@ struct DatabaseHelper {
         
         let (data, _) = try await URLSession.shared.data(from: url)
         
-      print("this is added")
+      print("this is agsggs  djjdjdbnj jjjjjjjjjjjjjjjj  added")
 
         return ["xx"]
 
